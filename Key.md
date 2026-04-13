@@ -18,4 +18,13 @@ ip.src == 10.152.25.28
 autopsy
 ```
 ### Go to the localhost port generated and the GUI will come up.
-### 
+![1](1.png)
+### Then create a case with the host and use the special ctf.E* to locate encase files
+### Once finished, you will be able to select the C:/ mount
+![2](2.png)
+### Go to Distribution Centre
+![3](3.png)
+### Press the amazon.txt and hex values will appear. Decode them to find the flag.
+![4](4.png)
+![5](5.png)
+
